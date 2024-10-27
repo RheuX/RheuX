@@ -29,6 +29,7 @@ A passionate software engineer from South San Francisco, CA
 ![CouchDB](https://img.shields.io/badge/CouchDB-%23E32F22.svg?style=for-the-badge&logo=apache-couchdb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ## Most Used Languages:
 
