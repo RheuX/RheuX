@@ -3,9 +3,9 @@ A passionate software engineer from South San Francisco, CA
 
 🌱 I’m currently working on two major roles in software development:
 
-1. **iOS Software Engineer (Lead Frontend Developer)** - At SocialTech Labs, I'm leading a frontend team using **Swift** and **SwiftUI**. I’m responsible for developing and integrating new features, such as a song-sharing tool with APIs for Spotify, Apple Music, and YouTube, and creating widgets for real-time updates. I'm also learning **Go** and **AWS** on the side, since I'm interested in being a Full Stack Developer.
+1. **iOS Software Engineer (Lead Frontend Developer)** - At [SocialTech Labs](https://socialtechlabs.com/), I'm leading a frontend team using **Swift** and **SwiftUI**. I’m responsible for developing and integrating new features, such as a song-sharing tool with APIs for Spotify, Apple Music, and YouTube, and creating widgets for real-time updates. I'm also learning **Go** and **AWS** on the side, since I'm interested in being a Full Stack Developer.
 
-2. **Software Engineering Intern** - At Open Learning Exchange, I work primarily with **Angular** and **CouchDB** to enhance the Planet Learning app. My responsibilities include improving user experience, deploying with **Docker**, and collaborating with colleagues to optimize the educational platform. I'm still new but enjoying learning new things in this job.
+2. **Software Engineering Intern** - At [Open Learning Exchange](https://www.ole.org/), I work primarily with **Angular** and **CouchDB** to enhance the Planet Learning app. My responsibilities include improving user experience, deploying with **Docker**, and collaborating with colleagues to optimize the educational platform. I'm still new but enjoying learning new things in this job.
 
 📫 How to reach me: [lorensaxeln@gmail.com](mailto:lorensaxeln@gmail.com)
 
