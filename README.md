@@ -8,6 +8,7 @@ A passionate software engineer from South San Francisco, CA
 2. **Software Engineering Intern** - At [Open Learning Exchange](https://www.ole.org/), I work primarily with **Angular** and **CouchDB** to enhance the Planet Learning app. My responsibilities include improving user experience, deploying with **Docker**, and collaborating with colleagues to optimize the educational platform. I'm still new but enjoying learning new things in this job.
 
 📫 How to reach me: [lorensaxeln@gmail.com](mailto:lorensaxeln@gmail.com)
+My Website: https://portfolio-chi-ruddy.vercel.app/
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/axelnlorens/)
